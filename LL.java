@@ -32,7 +32,7 @@ public class LL {
        }
        currNode.next=newNode;
     }
-    //printing node
+    //printing list 
     public void printNode(){
          if(head == null){
             System.out.println("List is empty");
