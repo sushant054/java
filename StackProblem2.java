@@ -12,7 +12,8 @@ public class StackProblem2 {
         pushAtBottom(s, data);
         s.push(temp);
     }
-
+ 
+    
     public static void reverse(Stack<Integer> s) {
         if(s.isEmpty()) {
             return;
