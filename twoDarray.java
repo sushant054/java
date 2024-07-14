@@ -1,4 +1,4 @@
-//accepting and printing 2D array
+//accepting and printing 2D array..
 import java.util.*;
 public class twoDarray{
     public static void main (String args []){
