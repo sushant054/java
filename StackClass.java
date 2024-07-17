@@ -1,4 +1,4 @@
-//stack using linked list
+//stack using LL
 public class StackClass {
     static class Node {
         int data;
